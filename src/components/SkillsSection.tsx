@@ -61,7 +61,7 @@ export default function SkillsSection() {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <span className="text-primary font-medium mb-2 block">Keahlian</span>
+          <span className="text-primary font-medium mb-2 block">keahlian</span>
           <h2 className="font-display text-3xl md:text-5xl font-bold mb-4">
             Skills &amp; Teknologi
           </h2>
