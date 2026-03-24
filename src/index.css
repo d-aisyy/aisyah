@@ -30,7 +30,7 @@
 
     --radius: 0.75rem;
 
-    /* Gradasi: 70% Biru Pastel & 30% Pink Pastel */
+    /* Gradasi: 70% Biru Pastel & 40% Pink Pastel */
     --gradient-hero: linear-gradient(135deg, 
       hsl(200, 100%, 92%) 0%, 
       hsl(200, 100%, 92%) 70%, 

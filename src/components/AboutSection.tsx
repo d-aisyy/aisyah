@@ -19,11 +19,11 @@ export default function AboutSection() {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <span className="text-primary font-medium mb-2 block">about me</span>
+          <span className="text-primary font-medium mb-2 block">get to know me</span>
           <h2 className="font-display text-3xl md:text-5xl font-bold mb-4">
             
       
-          </h2>
+          </h2>in a nutshell
           <div className="w-20 h-1 bg-primary mx-auto rounded-full" />
         </motion.div>
 
@@ -57,8 +57,7 @@ export default function AboutSection() {
             <h3 className="font-display text-2xl md:text-3xl font-bold">
                           future web developer  </h3>
             <p className="text-muted-foreground leading-relaxed">
-              saya seorang pelajar yang baru memasuki dunia pemograman.Saya memiliki ketertarikan pada dunia teknologi dan ingin memahami bagaimana sebuah program atau aplikasi dapat dibuat.
-              portofolio sebagai tempat untuk  
+              Halo! Saya Aisyah zarifa, seorang pelajar yang sedang mendalami dunia  coding . Saya memiliki rasa ingin tahu yang tinggi dan sangat antusias untuk mempelajari teknologi baru. Portofolio ini adalah catatan perjalanan saya dalam mengubah baris kode menjadi solusi visual yang menarik.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               selain coding, 
