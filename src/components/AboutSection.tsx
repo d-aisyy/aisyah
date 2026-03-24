@@ -55,7 +55,7 @@ export default function AboutSection() {
             className="space-y-6"
           >
             <h3 className="font-display text-2xl md:text-3xl font-bold">
-               a student whos love learning            </h3>
+                          future web developer  </h3>
             <p className="text-muted-foreground leading-relaxed">
               saya seorang pelajar yang baru memasuki dunia pemograman.Saya memiliki ketertarikan pada dunia teknologi dan ingin memahami bagaimana sebuah program atau aplikasi dapat dibuat.
               portofolio sebagai tempat untuk  

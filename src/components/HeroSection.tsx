@@ -31,8 +31,8 @@ export default function HeroSection() {
               <div className="absolute -inset-1 bg-gradient-to-r from-primary to-purple-600 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
               
               <img 
-                src="https://via.placeholder.com/500x600" // Ganti dengan path foto Aisyah
-                alt="Aisyah Zarifa"
+                src="Hehehe hi.jpg" // Ganti dengan path foto Aisyah
+                alt="Aisyah sZarifa"
                 className="relative rounded-2xl w-full max-w-[350px] md:max-w-[450px] aspect-[3/4] object-cover shadow-2xl border border-white/10"
               />
             </div>
