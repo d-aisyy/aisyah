@@ -60,7 +60,7 @@ export default function AboutSection() {
               Halo! Saya Aisyah zarifa, seorang pelajar yang sedang mendalami dunia  coding . Saya memiliki rasa ingin tahu yang tinggi dan sangat antusias untuk mempelajari teknologi baru. Portofolio ini adalah catatan perjalanan saya dalam mengubah baris kode menjadi solusi visual yang menarik.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              selain coding, 
+              
             </p>
             <div className="grid grid-cols-2 gap-4 pt-4">
               {stats.map((stat, index) => (
